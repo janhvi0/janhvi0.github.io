@@ -65,4 +65,8 @@ I geek out over Python, SQL, and Excel, but my true superpower? Crafting dashboa
 - 
 - **Fun fact:** The chatbot was designed for a customer-facing project, and users loved the witty replies. Think of it as the Ryan Reynolds of chatbots. 😏
 
+# 💡 Connect with me 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/janhvi-patriwar/](https://www.linkedin.com/in/janhvi-patriwar/))
+
+- Gmail : janhvipatriwar7@gmail.com
 
