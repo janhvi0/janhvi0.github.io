@@ -1,72 +1,65 @@
+# Hi there, I'm Janhvi Patriwar! 👋
 
-# Janhvi Patriwar 
-### 👩‍💻 Data Analyst 
+### 👩‍💻 Data Analyst | Python | SQL | Data Visualization Enthusiast
 
-Hi, I’m Janhvi Patriwar, a B.Tech grad who fell head over heels for the world of data! From coding to analyzing, I found my sweet spot in the data field. I’m all about Python, SQL, and turning numbers into stories. Oh, and I love making data look fancy with visualizations and dashboards!
+---
 
-From cleaning messy datasets to creating visualizations that even my grandma would understand, I’m all about making data cool. 
+Welcome to my data-driven world! I'm a **B.Tech graduate** with a passion for **Python**, **SQL**, and turning raw numbers into compelling stories. I love working with data, whether it's cleaning up messy datasets or crafting stunning dashboards that even my grandma would understand! My goal? To make data **cool**, **accessible**, and **impactful**.
 
-I geek out over Python, SQL, and Excel, but my true superpower? Crafting dashboards that wow the room.
+### 🛠️ **Tech Stack**
+- **Data Analysis & Visualization**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+- **BI Tools**: `Power BI`, `Excel`, `SQL`
+- **Python Development**: Clean, efficient, and happy code!
+- **Databases**: `MYSQL` - My go-to for querying and storing data
+- **Statistical Analysis**: Transforming numbers into insights since day one
 
+---
 
-##  Education
-### Bachelor of Technology
- #### Rastrasant Tukdoji Maharaj Nagpur University
- - 2020-2024 
+### 🏆 **Experience**
 
- - Computer Science and Engineering 
- 
- - CGPA   7.99 
+#### 💼 Software & AI Intern - *CureXmedia, Nagpur* (01/2024–05/2024)
+- Developed an **AI-powered WhatsApp chatbot** that speeds up property rental searches
+- Conducted research and created reports to assist throughout the project
+- Enhanced my data analysis skills while making complex topics simple for non-techies
 
-## 💻Tech Stack
+---
 
-- **Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn (because I like my data pretty)
+### 💡 **Projects**
 
-- **BI Tools:** Power BI, Excel, SQL (a.k.a. my dream team)
+#### 🚴‍♂️ **Analyzing Bike Sales Data** (SQL & Power BI)
+- Analyzed motorcycle parts sales across 3 warehouses to track revenue performance
+- **SQL queries** helped derive insights into monthly net revenue by product line and location
+- **Impact**: Created a **Power BI Dashboard** to visualize trends, helping the company make data-driven decisions!
 
-- **Python Development:** Clean code = happy me
+![Bike Sales Dashboard](assets/BIKE SALES.png) 
 
-- **Databases:** SQL (a.k.a. my best friend for querying and storing all the goods)
+#### 🔋 **Electric Vehicle Market in India** (Excel & Power BI)
+- Analyzed EV market trends from 2015 to 2024 and projected future growth
+- Designed a **Power BI Dashboard** with KPIs to visualize market growth trajectory
+- **Impact**: Provided key insights to stakeholders, helping forecast the EV market's direction
 
-- **Statistical Analysis:** Turning numbers into “whoa” moments since Day 1
+![EV Market Dashboard](assets/EV MARKET.png)
 
-## 🏆 Experience
+#### 🤖 **GENAI Chatbot** (JavaScript)
+- Built a sarcastic chatbot using **JavaScript**, **LangChain**, and **Express**
+- Programmed witty, sarcastic responses for a fun customer experience
+- **Impact**: Users loved the humor, adding a fun twist to human-computer interaction!
 
-### Software & AI Intern
-⚡ CureXmedia, Nagpur  (01/2024–05/2024)
+![Chatbot UI](assets/CHATBOT.png)
 
-- Helped build an AI-powered WhatsApp chatbot that finds you the perfect rental property faster than you can say, "Hey Siri!"
-- Contributed to research, created reports, providing research and assistance throughout the project. 
-- Honed my data analysis chops and mastered the art of explaining complex stuff to non-techies!
+---
 
+### 🎓 **Education**
+**Bachelor of Technology - Computer Science & Engineering**  
+Rastrasant Tukdoji Maharaj Nagpur University (2020-2024)  
+**CGPA**: 7.99
 
-## 💡 Projects
+---
 
-**🚴‍♂️ Analyzing Bike Sales Data (SQL & Power BI)**
-- **What I did:** Dug deep into motorcycle parts sales data to track performance across three warehouses. Created SQL queries that analyzed monthly net revenue by product line and location.
+### 💡 **Connect with Me**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janhvi%20Patriwar-blue)]([https://www.linkedin.com](https://www.linkedin.com/in/janhvi-patriwar/)) 
+- **Email**: [janhvipatriwar7@gmail.com](mailto:janhvipatriwar7@gmail.com)
 
-- **Impact:** Developed a Power BI dashboard that brought this data to life with stunning visuals. The dashboard helped the company spot revenue trends and identify top-performing warehouses—data-driven decisions FTW!
+---
 
-- **Fun fact:** I designed the dashboard to be interactive, so it’s like a choose-your-own-adventure but with data! 📊
-
-**🔋 Electric Vehicle Market in India (Excel & Power BI)**
-
-- **What I did:** Analyzed EV market trends from 2015-2024 by crunching historical sales data, then projected future growth using Excel and Power BI.
-
-- **Impact:** Created KPIs and built a dashboard that visualized the growth trajectory for stakeholders. The insights helped key players in the EV industry make predictions about where the market’s headed next!
-
-- **Fun fact:** With interactive filters and sleek design, this dashboard turned EV market analysis into something even a non-tech person could geek out over. 🔌🚗
-
-**🤖 GENAI Chatbot (JavaScript)**
-
-- **What I did:** Built a chatbot with a serious attitude problem (in a good way!). Using JavaScript, LangChain, and Express, I programmed it to deliver hilariously sarcastic responses.
-
-- **Impact:** The chatbot added a fun twist to human-computer interactions, perfect for users who like a little sass with their tech.
-- 
-- **Fun fact:** The chatbot was designed for a customer-facing project, and users loved the witty replies. Think of it as the Ryan Reynolds of chatbots. 😏
-
-# 💡 Connect with me 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/janhvi-patriwar/](https://www.linkedin.com/in/janhvi-patriwar/))
-
-- Gmail : janhvipatriwar7@gmail.com
-
+Let’s turn data into stories together! 🚀
