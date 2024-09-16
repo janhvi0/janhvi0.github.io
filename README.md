@@ -12,11 +12,11 @@ I geek out over Python, SQL, and Excel, but my true superpower? Crafting dashboa
 ##  Education
 ### Bachelor of Technology
  #### Rastrasant Tukdoji Maharaj Nagpur University
- 2020-2024 
+ - 2020-2024 
 
- Computer Science and Engineering 
+ - Computer Science and Engineering 
  
- CGPA   7.99 
+ - CGPA   7.99 
 
 ## 💻Tech Stack
 
@@ -35,34 +35,36 @@ I geek out over Python, SQL, and Excel, but my true superpower? Crafting dashboa
 ### Software & AI Intern
 ⚡ CureXmedia, Nagpur  (01/2024–05/2024)
 
-Helped build an AI-powered WhatsApp chatbot that finds you the perfect rental property faster than you can say, "Hey Siri!"
-Contributed to research, created reports, providing research and assistance throughout the project. 
-Honed my data analysis chops and mastered the art of explaining complex stuff to non-techies!
+- Helped build an AI-powered WhatsApp chatbot that finds you the perfect rental property faster than you can say, "Hey Siri!"
+- Contributed to research, created reports, providing research and assistance throughout the project. 
+- Honed my data analysis chops and mastered the art of explaining complex stuff to non-techies!
 
 
 ## 💡 Projects
 
 **🚴‍♂️ Analyzing Bike Sales Data (SQL & Power BI)**
-**What I did:** Dug deep into motorcycle parts sales data to track performance across three warehouses. Created SQL queries that analyzed monthly net revenue by product line and location.
+- **What I did:** Dug deep into motorcycle parts sales data to track performance across three warehouses. Created SQL queries that analyzed monthly net revenue by product line and location.
 
-**Impact:** Developed a Power BI dashboard that brought this data to life with stunning visuals. The dashboard helped the company spot revenue trends and identify top-performing warehouses—data-driven decisions FTW!
+- **Impact:** Developed a Power BI dashboard that brought this data to life with stunning visuals. The dashboard helped the company spot revenue trends and identify top-performing warehouses—data-driven decisions FTW!
 
-**Fun fact:** I designed the dashboard to be interactive, so it’s like a choose-your-own-adventure but with data! 📊
+- **Fun fact:** I designed the dashboard to be interactive, so it’s like a choose-your-own-adventure but with data! 📊
 
 **🔋 Electric Vehicle Market in India (Excel & Power BI)**
 
-**What I did:** Analyzed EV market trends from 2015-2024 by crunching historical sales data, then projected future growth using Excel and Power BI.
+- **What I did:** Analyzed EV market trends from 2015-2024 by crunching historical sales data, then projected future growth using Excel and Power BI.
 
-**Impact:** Created KPIs and built a dashboard that visualized the growth trajectory for stakeholders. The insights helped key players in the EV industry make predictions about where the market’s headed next!
+- **Impact:** Created KPIs and built a dashboard that visualized the growth trajectory for stakeholders. The insights helped key players in the EV industry make predictions about where the market’s headed next!
 
-**Fun fact:** With interactive filters and sleek design, this dashboard turned EV market analysis into something even a non-tech person could geek out over. 🔌🚗
+- **Fun fact:** With interactive filters and sleek design, this dashboard turned EV market analysis into something even a non-tech person could geek out over. 🔌🚗
 
 **🤖 GENAI Chatbot (JavaScript)**
 
-**What I did:** Built a chatbot with a serious attitude problem (in a good way!). Using JavaScript, LangChain, and Express, I programmed it to deliver hilariously sarcastic responses.
+- **What I did:** Built a chatbot with a serious attitude problem (in a good way!). Using JavaScript, LangChain, and Express, I programmed it to deliver hilariously sarcastic responses.
 
-**Impact:** The chatbot added a fun twist to human-computer interactions, perfect for users who like a little sass with their tech.
+- **Impact:** The chatbot added a fun twist to human-computer interactions, perfect for users who like a little sass with their tech.
 
-**Fun fact:** The chatbot was designed for a customer-facing project, and users loved the witty replies. Think of it as the Ryan Reynolds of chatbots. 😏
+-
+-
+- **Fun fact:** The chatbot was designed for a customer-facing project, and users loved the witty replies. Think of it as the Ryan Reynolds of chatbots. 😏
 
 
