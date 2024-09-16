@@ -20,15 +20,15 @@ I geek out over Python, SQL, and Excel, but my true superpower? Crafting dashboa
 
 ## 💻Tech Stack
 
-**Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn (because I like my data pretty)
+- **Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn (because I like my data pretty)
 
-**BI Tools:** Power BI, Excel, SQL (a.k.a. my dream team)
+- **BI Tools:** Power BI, Excel, SQL (a.k.a. my dream team)
 
-**Python Development:** Clean code = happy me
+- **Python Development:** Clean code = happy me
 
-**Databases:** SQL (a.k.a. my best friend for querying and storing all the goods)
+- **Databases:** SQL (a.k.a. my best friend for querying and storing all the goods)
 
-**Statistical Analysis:** Turning numbers into “whoa” moments since Day 1
+- **Statistical Analysis:** Turning numbers into “whoa” moments since Day 1
 
 ## 🏆 Experience
 
@@ -62,9 +62,7 @@ I geek out over Python, SQL, and Excel, but my true superpower? Crafting dashboa
 - **What I did:** Built a chatbot with a serious attitude problem (in a good way!). Using JavaScript, LangChain, and Express, I programmed it to deliver hilariously sarcastic responses.
 
 - **Impact:** The chatbot added a fun twist to human-computer interactions, perfect for users who like a little sass with their tech.
-
--
--
+- 
 - **Fun fact:** The chatbot was designed for a customer-facing project, and users loved the witty replies. Think of it as the Ryan Reynolds of chatbots. 😏
 
 
