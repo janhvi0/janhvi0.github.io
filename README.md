@@ -31,14 +31,14 @@ Welcome to my data-driven world! I'm a **B.Tech graduate** with a passion for **
 - **SQL queries** helped derive insights into monthly net revenue by product line and location
 - **Impact**: Created a **Power BI Dashboard** to visualize trends, helping the company make data-driven decisions!
 
-![Bike Sales Dashboard](assets/BIKE SALES.png) 
+![Bike Sales Dashboard](assets/BIKE.png) 
 
 #### 🔋 **Electric Vehicle Market in India** (Excel & Power BI)
 - Analyzed EV market trends from 2015 to 2024 and projected future growth
 - Designed a **Power BI Dashboard** with KPIs to visualize market growth trajectory
 - **Impact**: Provided key insights to stakeholders, helping forecast the EV market's direction
 
-![EV Market Dashboard](assets/EV MARKET.png)
+![EV Market Dashboard](assets/EV.png)
 
 #### 🤖 **GENAI Chatbot** (JavaScript)
 - Built a sarcastic chatbot using **JavaScript**, **LangChain**, and **Express**
