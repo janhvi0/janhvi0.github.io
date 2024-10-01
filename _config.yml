@@ -1,5 +1,9 @@
 title: Janhvi Patriwar
 # logo: profile.png
-description: <a href = "View my projects on [GitHub](https://github.com/janhvi0)"
+description: <a href =
+- "View my projects on [GitHub](https://github.com/janhvi0)"
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janhvi%20Patriwar-blue)]([https://www.linkedin.com](https://www.linkedin.com/in/janhvi-patriwar/)) 
+- **Email**: [janhvipatriwar7@gmail.com](mailto:janhvipatriwar7@gmail.com)
+
 # show_downloads: true
 theme: jekyll-theme-minimal
